@@ -1,4 +1,4 @@
-# A-A-B-Testing-and-Sales-Funnel-Analysis
+# AAB Testing and Sales Funnel Analysis
 This project involves analyzing user behavior data for a food startup's mobile application, focusing on two main objectives: understanding the sales funnel performance and evaluating the impact of a font design change through A/A/B testing methodology.
 Key Project Components
 1. Sales Funnel Analysis
