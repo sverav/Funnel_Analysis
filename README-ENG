@@ -1,0 +1,22 @@
+**🎯General Goal**
+
+Analyze user behavior within the application to identify bottlenecks in the conversion funnel and determine whether a change in typography significantly impacts conversion rates.
+
+**🧩Methodology**
+
+ - Data Cleaning and Preparation
+ - Exploratory Data Analysis (EDA)
+ - Event Funnel Analysis
+ - A/A/B Test Analysis
+
+**☘️Expected Results**
+
+ - A clear map of the conversion funnel with drop-off rates at each stage.
+ - Confirmation that the two control groups are statistically indistinguishable (validating the experimental design).
+ - A definitive conclusion on whether the font change has a statistically significant effect (positive or negative) on user behavior and conversion rates.
+ - Data-driven recommendations on whether to implement the new fonts across the entire application.
+
+**📑Obtained Results**
+
+ - Recommendation to investigate the reason for the difference in conversion rates between experimental and control values.
+ - Recommendation to ensure equal group sizes for experimental and control groups.
